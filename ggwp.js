@@ -7,4 +7,4 @@ function isOK(q) {return q && q != null && q != undefined ? true : false;}
 function insertBef(newNode, referenceNode) {referenceNode.parentNode.insertBefore(newNode, referenceNode.previousSibling);}
 function insertAf(newNode, referenceNode) {referenceNode.parentNode.insertBefore(newNode, referenceNode.nextSibling);}
 
-l("asd");
+l("asdqwe");
